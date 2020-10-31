@@ -1,11 +1,11 @@
 # Horiseon Challenge Assignment
-## Contents
-1. [Project Description](#project-description)
-2. [Deployed Page](#deployed-page)
-3. [Revision Comments](#revision-comments)
-
 ## Project Description
 Horiseon page features a large hero banner followed by three main sections and a sidebar.  The page is bookended with a navigational header and a footer.  Semantic HTML and image alt attributes employed to increase Search Engine Optimization.
+
+## Contents
+1. [Deployed Page](#deployed-page)
+2. [Refactor Comments](#refactor-comments)
+3. [Contributions](#contributions)
 
 ## Deployed Page
 
@@ -13,7 +13,7 @@ Horiseon page features a large hero banner followed by three main sections and a
 
 [Deployed GitPage](https://deckiedevs.github.io/horiseon/)
 
-## Revision Comments
+## Refactor Comments
 * Added comments to index.html and style.css to facilitate refactoring.
 * Refactored select div elements to semantic HTML elements to improve SEO.
 * Re-identified style selectors accordingly.
@@ -23,3 +23,7 @@ Horiseon page features a large hero banner followed by three main sections and a
 * Fixed broken navigational link.
 * Added alt attributes to images to improve SEO.
 * Fixed an issue with text overflow upon resizing browser.
+
+## Contributions
+* Horiseon web page created by [UCF Boot Camp](https://github.com/coding-boot-camp/urban-octo-telegram)
+* Code refactoring completed by Mila Decker
